@@ -21,9 +21,6 @@ To report an issue or suggest an enhancement:
 ## License
 This project is open-source under the [MIT License](LICENSE). Feel free to use, modify, and distribute, but please retain the copyright notice.
 
-## Contact
-For questions or support, open an issue or reach out via [mblook.net/contact](https://mblook.net/contact).
-
 ---
 
 [Made with ❤️ by niufir ]  
