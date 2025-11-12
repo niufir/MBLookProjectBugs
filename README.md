@@ -26,5 +26,5 @@ For questions or support, open an issue or reach out via [mblook.net/contact](ht
 
 ---
 
-[Made with ❤️ by твой-юзер]  
+[Made with ❤️ by niufir ]  
 [Last updated: 2025-11-12]
